@@ -3,6 +3,8 @@
 
 This is your first homework task. Since it will not be graded there is no deadline. Nevertheless, we strongly encourage you to try out this task, both to get to know the homework task format and to get to know git. All the following tasks will assume that you know how to use `git` and *GitHub*.
 
+This is very useful.
+
 ## Information Material
 
 * [Slides](ProgR_01_Intro.pdf)
